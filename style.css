@@ -1,0 +1,112 @@
+.background{
+   background-image: url(Background.png);
+}
+
+.body{
+   text-align: center;
+}
+
+.flex-buttons{
+   display: flex;
+   text-align: center;
+   flex-direction: row;
+   padding-left: 283px;
+   padding-bottom: 75px;
+   padding-top: 10px;
+}  
+
+#linkedin:hover{
+   color: #4a2986;
+}
+
+#linkedin{
+   display: flex;
+   margin-right: 100px;
+   width: 185px;
+   height: 50px;
+   color: #7743DB;
+   border: solid;
+   border-radius: 100px;
+   padding: 12px 52px ;
+   font-family: "Istok Web", sans-serif;
+   font-style: normal;
+   font-size: large;
+   font-weight: bold;
+   border-color: #7743DB;
+   background-color: #DCBFFF;
+   cursor: pointer;
+}
+
+#fiverr:hover{
+   color: #4a2986;
+}
+
+#fiverr{
+   display: flex;
+   margin-right: 100px;
+   width: 185px;
+   height: 50px;
+   color: #7743DB;
+   border: solid;
+   border-radius: 100px;
+   padding: 12px 64px;
+   font-family: "Istok Web", sans-serif;
+   font-style: normal;
+   font-size: large;
+   font-weight: bold;;
+   border-color: #7743DB;
+   background-color: #DCBFFF;
+   cursor: pointer;
+}
+
+#github:hover{
+   color: #4a2986;
+}
+
+#github{
+   display: flex;
+   width: 185px;
+   height: 50px;
+   color: #7743DB;
+   border: solid;
+   border-radius: 100px;
+   padding: 12px 56px;
+   font-family: "Istok Web", sans-serif;
+   font-style: normal;
+   font-size: large;
+   font-weight: bold;
+   border-color: #7743DB;
+   background-color: #DCBFFF;
+   cursor: pointer;
+}
+
+#footerazcy{
+   font-family: "Istok Web", sans-serif;
+   font-style: normal;
+   font-size: small;
+   text-align: center;
+   color: #7743DB;
+   margin-top: 20px;
+}
+
+#pfp{
+ width: 300px;
+ height: 255px;
+ padding-top: 50px;
+}
+ 
+#namepfp{
+   font-family: "Istok Web", sans-serif;
+   font-style: normal;
+   font-size: large;
+   font-weight: bold;
+   font-size: 44px;
+}
+
+#button-x{
+   width: 50px;
+   height: 50px;
+   padding-top: 20px ;
+   padding-left: 1255px ;
+   cursor: pointer;
+}
